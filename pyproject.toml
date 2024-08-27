@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "dummy-logo-tests"
+name = "dummy-logo-test-final"
 version = "0.0.1"
 authors = [
   { name="Ravi Kumar Pilla" },

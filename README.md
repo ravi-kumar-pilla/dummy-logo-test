@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-dark.png">
-  <img alt="Shows a black logo in light color mode and a white logo in dark color mode.">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-dark.png">
+    <a href="https://docs.kedro.org/en/stable/"><img src="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-light.png" alt="Kedro"></a>
+  </picture>
+</p>
 
 [![Python version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://pypi.org/project/kedro/)
 [![PyPI version](https://badge.fury.io/py/kedro.svg)](https://pypi.org/project/kedro/)

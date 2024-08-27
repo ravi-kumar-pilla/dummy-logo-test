@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-light.png">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-dark.png">
-    <a href="https://docs.kedro.org/en/stable/" target="_blank"><img src="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-light.png" alt="Kedro"></a>
+    <img src="https://raw.githubusercontent.com/ravi-kumar-pilla/dummy-logo-test/main/.github/demo-light.png" alt="Kedro">
   </picture>
 </p>
 
